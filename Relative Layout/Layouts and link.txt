@@ -1,0 +1,71 @@
+Layouts-->
+
+ViewGroup--> more than one view or collection of views--> multiple button, Layouts--> handle more than one view and can deal with more than one layouts--> As Parent
+
+View--> single view. Button, edittext, textview, radio button, check box, etc.--> As a child
+
+Mandatory attribute in ViewGroup and View:
+
+layout_width=
+
+"fill_parent"
+
+"match_parent"--> takes the complete screen  width of device
+
+wrap_content--> wrap the content acc. to the width of data
+
+Hardcoded-value--> fixed within that values
+
+
+layout_height=""
+"match_parent"--> takes the complete screen  width of device
+
+wrap_content--> wrap the content acc. to the width of data
+
+Hardcoded-value--> fixed within that values
+
+Layouts--> ViewGroup
+
+--> RelativeLayout --> 
+
+relative to the position of parent or other child elements
+
+More attributes
+
+Simplest layout among all others available.
+
+When we don't want to have nested layouts.
+
+Easy drag and drop
+
+
+--> ConstraintLayout
+
+--> LinearLayout
+--> FrameLayout
+--> TableLayout
+--> CoordinatorLayout(extra library)
+
+common attributes: margin, padding, background, etc
+
+
+
+
+RelativeLayout link:
+
+Link 1:
+
+https://play.google.com/store/apps/details?id=com.kooapps.pictowordandroid&hl=en
+
+
+Link 2 & 3:
+
+https://play.google.com/store/apps/details?id=com.ted.android&hl=en
+
+Link 4:
+
+https://play.google.com/store/apps/details?id=education.englishforkid.leaningenglish&hl=en
+
+Link 5:
+
+https://play.google.com/store/apps/details?id=com.sgg.twopics&hl=en
