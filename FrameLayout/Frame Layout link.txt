@@ -1,0 +1,33 @@
+orientation="horizontal/vertical"
+
+gravity="inner elements"
+
+layout_gravity="outside or on complete layout"
+
+layout_weight=""
+
+RelativeLayout
+LinearLayout
+FrameLayout:
+
+Child priority is always higher than others--> last added widget is child-->child always set as top of other widgets
+
+gravity=""
+layout_gravity=""
+
+Link 1:
+
+https://play.google.com/store/apps/details?id=com.bsbportal.music&hl=en
+
+Link 2:
+
+https://play.google.com/store/apps/details?id=com.bsbportal.music&hl=en
+
+Link 3:
+
+https://play.google.com/store/apps/details?id=com.saavn.android&hl=en
+
+TableLayout:
+
+ConstraintLayout
+CoordinatorLayout
