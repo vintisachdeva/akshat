@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Registration App</string>
+    <string name="name">Name</string>
+    <string name="create_account">Create Account</string>
+    <string name="gender">Gender</string>
+
+    <string-array name="gender">
+        <item>Other</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+</resources>
